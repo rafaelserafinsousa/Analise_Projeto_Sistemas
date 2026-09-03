@@ -6,7 +6,7 @@
 Este projeto é um trabalho acadêmico da disciplina **Engenharia de Software** da Universidade de Brasília (UnB/UDF). Ele consiste em uma análise e desenvolvimento de um sistema que aplica princípios e boas práticas da engenharia de software.
 
 ### 👥 **WHO** (Quem?)
-- **Desenvolvedor(es):** Kadidjah
+- **Desenvolvedor(es):** Rafael Serafin / Bernardo Carvalho
 - **Instituição:** Centro Universitário UDF 
 - **Disciplina:** Engenharia de Software
 
@@ -15,8 +15,8 @@ Este projeto é um trabalho acadêmico da disciplina **Engenharia de Software** 
 - **Status:** Em Desenvolvimento
 
 ### 📍 **WHERE** (Onde?)
-- **Localização do Repositório:** [GitHub - Analise_Projeto_Sistemas](https://github.com/Kadidjah/Analise_Projeto_Sistemas)
-- **Estrutura:** Disponível na pasta `ProjetoAPS`
+- **Localização do Repositório:** [GitHub - Analise_Projeto_Sistemas](https://github.com/rafaelserafinsousa/Analise_Projeto_Sistemas)
+- **Estrutura:** Disponível na pasta `projetoAPS`
 
 ### 🎯 **WHY** (Por Quê?)
 Este projeto foi desenvolvido com os seguintes objetivos:
