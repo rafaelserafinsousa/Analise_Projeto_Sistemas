@@ -12,7 +12,7 @@ Atividade: Transformação do levantamento do sistema em requisitos funcionais e
 
 | Campo | Descrição |
 | :---- | :---- |
-| Nome do sistema | Sistema de Estacionamento |
+| Nome do sistema | Sistema de Gerenciamento de Vagas de Estacionamento |
 | Objetivo | Registro e Gerenciamento de carros, vagas, usuários e segurança |
 | Público-alvo | Motororistas  |
 | Responsável pelo levantamento | Grupo  |
